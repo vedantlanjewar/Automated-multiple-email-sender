@@ -1,0 +1,9 @@
+
+Dear ${person_name},
+
+This is a sample test mal.
+Congratulation !!
+you have won the lucky draw.
+
+yours truly
+${sender_name}

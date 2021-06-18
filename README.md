@@ -1,8 +1,8 @@
 # Automated-multiple-email-sender
 
 This is a simple code to send email to multiple people.
-the main context of mail would  remain same, but you can change mail information (like dear XYZ) by using python template.
-python template will basically replace the XYZ with the name from the list.
+The main context of mail would  remain same, but you can change mail information (like dear XYZ) by using python template.
+Python template will basically replace the XYZ with the name from the list.
 
 
 Programming Language : Python

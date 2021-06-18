@@ -6,6 +6,7 @@ Python template will basically replace the XYZ with the name from the list.
 
 
 Programming Language : Python
+Environment : Jupyter Notebook
 
 Library used:
 

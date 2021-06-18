@@ -12,5 +12,5 @@ email-https://docs.python.org/3/library/email.html
 smtplib-https://docs.python.org/3/library/smtplib.html
 
 There will be 2 text file.
-1) Will contain the name and email of people.
+1) Will contain the names and emails of people.
 2) The body of the message.

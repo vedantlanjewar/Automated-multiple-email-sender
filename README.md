@@ -8,7 +8,9 @@ Python template will basically replace the XYZ with the name from the list.
 Programming Language : Python
 
 Library used:
+
 email-https://docs.python.org/3/library/email.html
+
 smtplib-https://docs.python.org/3/library/smtplib.html
 
 There will be 2 text file.
